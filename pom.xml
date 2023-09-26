@@ -16,7 +16,7 @@
 		
               <maven.compiler.source>1.8</maven.compiler.source>
                <maven.compiler.target>1.8</maven.compiler.target>
-		<sonar.organization>sk-iiitg_jacoco-sonar:com.devopshint:StringPalindrome</sonar.organization>
+	        <sonar.organization>sk-iiitg</sonar.organization>
 		
 
 
