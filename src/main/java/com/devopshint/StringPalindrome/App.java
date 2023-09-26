@@ -10,6 +10,8 @@ public class App {
 		if (input.equals(reverse(input))) {
 			return true;
 		} else {
+			int i=0;
+			i=i+1;
 			return false;
 		}
 	}
