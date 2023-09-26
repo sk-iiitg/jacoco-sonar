@@ -23,5 +23,12 @@ public class App {
 		}
 		return rev;
 	}
+       private String ALLreverse(String input) {
+		String rev = "";
+		for (int i = input.length() - 1; i >= 0; i--) {
+			rev = rev + input.charAt(i);
+		}
+		return rev;
+	}	
 
 }
